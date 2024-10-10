@@ -52,7 +52,7 @@
 
 </div>
 
-<p>
+<div align="center">
   <a href="https://tryhackme.com/p/unozero" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/s.marin.ionut.png"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://app.hackthebox.com/profile/00" target="_blank"><img src="./icons/htb.jpg" width="60" height="60"></a>
@@ -61,4 +61,4 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/988439003969753108" target="_blank"><img src="./icons/discord_icon.png" width="60" height="60"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</div>
