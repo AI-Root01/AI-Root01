@@ -15,7 +15,7 @@ He trabajado en áreas como la ciberseguridad, el machine learning y el desarrol
 
 # Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,c,latex,linux,md,matlab,postgres,py,r,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,latex,linux,md,matlab,postgres,py,r,vscode)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://github.com/root01-Algorithm" class="rich-diff-level-one">
