@@ -18,7 +18,7 @@ He trabajado en áreas como la ciberseguridad, el machine learning y el desarrol
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,c,latex,linux,md,matlab,postgres,py,r,vscode)](https://skillicons.dev)
 
 <p align="center">
-  <a href="https://github.com/metantonio" class="rich-diff-level-one">
+  <a href="https://github.com/root01-Algorithm" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=root01-Algorithm&show_icons=true&theme=dark" alt="Algorithm" height="180em" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=root01-Algorithm&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=dark" height="180em" />
   </a> 
