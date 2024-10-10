@@ -11,7 +11,7 @@ He trabajado en áreas como la ciberseguridad, el machine learning y el desarrol
 
 - 💻 Desarrollo de Software: Python, Java, Bash, C, Matlab.
 
-- 🛠 Sistemas Operativos: Experto en Linux (Kali, BlackArch).
+- 🛠 Sistemas Operativos: Experto en Linux (Windows, Linux, Mac).
 
 # Tech Stack:
 
