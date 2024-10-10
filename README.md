@@ -1,17 +1,15 @@
-<h1 align="center"><b>Hi , Frank Prime Prime </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, Frank Prime Prime</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+I am a technology enthusiast with over 5 years of experience in implementing innovative solutions. My expertise spans across cybersecurity, machine learning, and software development. I am passionate about developing and optimizing AI models, while continuously exploring and enhancing IT security.
 
-Soy un apasionado por la tecnología con más de 5 años de experiencia en la implementación de soluciones innovadoras.
-He trabajado en áreas como la ciberseguridad, el machine learning y el desarrollo de software. Me encanta desarrollar y optimizar modelos de inteligencia artificial, así como explorar y mejorar la seguridad informática.
+- 🔐 Cybersecurity: Penetration testing, vulnerability analysis.
 
-- 🔐 Ciberseguridad: Pruebas de penetración, análisis de vulnerabilidades, OSINT.
+- 🤖 Artificial Intelligence: Neural networks (CNN, LSTM), machine learning with TensorFlow and PyTorch.
 
-- 🤖 Inteligencia Artificial: Redes neuronales (CNN, LSTM), Machine Learning con TensorFlow y PyTorch.
+- 📊 Data Science: Data analysis, visualization, and modeling using Python (Pandas, NumPy, Matplotlib).
 
-- 📊 Ciencia de Datos: Análisis de datos, visualización y modelado con Python (Pandas, NumPy, Matplotlib).
+- 💻 Software Development: Proficient in Python, Java, Bash, C, and Matlab.
 
-- 💻 Desarrollo de Software: Python, Java, Bash, C, Matlab.
-
-- 🛠 Sistemas Operativos: Experto en Linux (Windows, Linux, Mac).
+- 🛠 Operating Systems: Linux expert (also proficient in Windows and MacOS).
 
 # Tech Stack:
 
