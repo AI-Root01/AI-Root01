@@ -15,12 +15,11 @@ I am a technology enthusiast with over 5 years of experience in implementing inn
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,latex,linux,md,matlab,postgres,py,r,vscode)](https://skillicons.dev)
 
-<p align="center">
-  <a href="https://github.com/root01-Algorithm" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=root01-Algorithm&show_icons=true&theme=dark" alt="Algorithm" height="180em" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=root01-Algorithm&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=dark" height="140em" />
-    </a> 
-</p>
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishpatel26&show_icons=true&theme=radical) | [![Ashish Patel's Stri](https://streak-stats.demolab.com?user=ashishpatel26&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpatel26&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishpatel26&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 | Property              | Data                                                         |
