@@ -11,7 +11,9 @@ I am a technology enthusiast with over 5 years of experience in implementing inn
 
 - 🛠 Operating Systems: Linux expert (also proficient in Windows and MacOS).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=root01-Algorithm&show_icons=true&theme=radical)  [![Ashish Patel's Stri](https://streak-stats.demolab.com?user=root01-Algorithm&theme=dark&border_radius=5&mode=weekly)](https://git.io/streak-stats) 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=root01-Algorithm&show_icons=true&theme=radical)  
+</br>
+[![Ashish Patel's Stri](https://streak-stats.demolab.com?user=root01-Algorithm&theme=dark&border_radius=5&mode=weekly)](https://git.io/streak-stats) 
+</br>
 # Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=bash,c,latex,linux,md,matlab,postgres,py,r,vscode)](https://skillicons.dev)
