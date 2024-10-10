@@ -14,13 +14,13 @@
 
 ---
 
+<h3 align="left">GitHub Stats:</h3>
 <div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=root01-Algorithm&show_icons=true&theme=radical)
-  </br>
-  [![Ashish Patel's Streak](https://streak-stats.demolab.com?user=root01-Algorithm&theme=dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
-  
-</div>
+  <a href="https://github.com/Muhammd">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=root01-Algorithm&show_icons=true&theme=tokyonight" alt="abhisheknaiidu"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=root01-Algorithm&layout=donut&langs_count=7&theme=tokyonight"/>
+  </a>
+
 
 ---
 
