@@ -12,4 +12,6 @@ He trabajado en áreas como la ciberseguridad, el machine learning y el desarrol
 
 - 🛠 Sistemas Operativos: Experto en Linux (Kali, BlackArch).
 
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,c,cpp,cmake,latex,linux,md,matlab,postgres,py,r,vscode)](https://skillicons.dev)
+# Tech Stack:
+
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,c,latex,linux,md,matlab,postgres,py,r,vscode)](https://skillicons.dev)
