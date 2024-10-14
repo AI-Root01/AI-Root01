@@ -16,7 +16,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
-  <a href="https://github.com/Muhammd">
+  <a href="https://github.com/AI-Root01">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AI-Root01&show_icons=true&theme=tokyonight" alt="abhisheknaiidu"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Root01&layout=donut&langs_count=7&theme=tokyonight"/>
   </a>
