@@ -7,10 +7,10 @@
 ### 🔑 Key Areas of Expertise
 
 - 🔐 **Cybersecurity**: Penetration testing, vulnerability analysis.
-- 🤖 **Artificial Intelligence**: Neural networks (CNN, LSTM), machine learning with TensorFlow and PyTorch.
+- 🤖 **Artificial Intelligence**: Neural networks, machine learning with TensorFlow and PyTorch.
 - 📊 **Data Science**: Data analysis, visualization, and modeling using Python (Pandas, NumPy, Matplotlib).
 - 💻 **Software Development**: Proficient in Python, Java, Bash, C, and Matlab.
-- 🛠 **Operating Systems**: Linux expert (also proficient in Windows and MacOS).
+- 🛠 **Operating Systems**: Linux, Windows and MacOS.
 
 ---
 
@@ -35,7 +35,6 @@
 <h3 align="left">Languages and Tools:</h3>
 </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/> </a>
 <a href="https://www.github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> 
 <a href="https://about.gitlab.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40"/> </a>
@@ -46,7 +45,6 @@
 <a href="https://metasploit.com/" target="_blank"> <img src="https://metasploit.com/includes/images/favicon.ico" alt="Metasploit" width="40" height="40"/> </a> 
 <a href="shodan.io" target="_blank"> <img src="https://www.shodan.io/static/img/favicon.png" alt="Shodan.io" width="40" height="40"/> </a> 
 <a href="https://maltego.com" target="_blank"> <img src="https://www.maltego.com/favicon.ico" alt="Maltego" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank"> <img src="https://st-ar.cdn.postman.com/images/favicon-1-32.png" alt="Postman" width="40" height="40"/> </a> 
 <a href="https://www.wireshark.org/" target="_blank"> <img src="https://www.wireshark.org/assets/images/favicon.ico" alt="Wireshark" width="40" height="40"/> </a> 
 <a href="https://www.KALI.org/" target="_blank"> <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/kali-linux-icon.png" alt="Kali" width="40" height="40"/> </a> 
 
