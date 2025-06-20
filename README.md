@@ -91,42 +91,6 @@
 
 ---
 
-## 🏆 **ACHIEVEMENTS UNLOCKED**
-
-<div align="center">
-
-### 🎯 **Notable Exploits & Research**
-
-</div>
-
-```bash
-┌─[frank@cybersec]─[~/achievements]
-└──╼ $ cat notable_works.txt
-
-[✓] MDPI Publication: "Threshold Active Learning for Violence Detection"
-    ├── Deep Learning Neural Networks
-    ├── Computer Vision at Frame Level
-    └── Pre-trained Model Optimization
-
-[✓] AI-Powered Access Control System
-    ├── License Plate Recognition (YOLOv2)
-    ├── RFID & QR Integration
-    ├── Real-time Video Processing
-    └── Arduino Automation
-
-[✓] Enterprise Penetration Testing
-    ├── OSINT Reconnaissance
-    ├── Vulnerability Assessment
-    ├── Exploitation & Post-Exploitation
-    └── Detailed Security Reports
-
-[✓] Bug Bounty Contributions
-    ├── Open Bug Bounty Platform
-    ├── Critical Vulnerability Discoveries
-    └── Security Policy Improvements
-
-[✓] AQUA CHALLENGE 2024 - Talent LAd España
-```
 
 ---
 
@@ -164,31 +128,6 @@
 
 </div>
 
----
-
-## 🔥 **CURRENT_MISSION_STATUS**
-
-<div align="center">
-
-```bash
-┌─[frank@cybersec]─[~/current_operations]
-└──╼ $ cat mission_status.log
-
-[🎯] Advancing AI research in computer vision applications
-[🔐] Conducting advanced penetration testing engagements  
-[🤖] Developing next-gen IoT security solutions
-[📊] Contributing to cybersecurity research community
-[🎓] Pursuing Master's degree in Engineering Sciences
-[💡] Exploring new frontiers in ML-powered security tools
-
-Status: ACTIVE & READY FOR NEW CHALLENGES
-```
-
-**⚡ "The best defense is a good offense... in cybersecurity and AI"**
-
-![Visitor Count](https://profile-counter.glitch.me/AI-Root01/count.svg)
-
-</div>
 
 ---
 
