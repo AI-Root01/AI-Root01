@@ -3,13 +3,6 @@
 **Cybersecurity Specialist & AI Research Engineer**
 
 <div align="center">
-  
-```ascii
-    ____  ____  ____  ____  ____  ____  ____  ____  ____  ____  ____  ____
-   ||F ||||r ||||a ||||n ||||k ||||  ||||P ||||r ||||i ||||m ||||e ||||  ||
-   ||__||||__||||__||||__||||__||||__||||__||||__||||__||||__||||__||||__||
-   |/__\||/__\||/__\||/__\||/__\||/__\||/__\||/__\||/__\||/__\||/__\||/__\|
-```
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Expert-red?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![AI Research](https://img.shields.io/badge/AI%20Research-Advanced-blue?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -27,37 +20,6 @@
 
 </div>
 
-```python
-class CyberSecurityExpert:
-    def __init__(self):
-        self.name = "Francisco Primero Primero"
-        self.alias = ["Frank Prime Prime", "AI-Root01", "unozerov"]
-        self.specializations = [
-            "🔐 Advanced Penetration Testing",
-            "🤖 AI & Machine Learning Research", 
-            "👁️ Computer Vision & Object Detection",
-            "🌐 OSINT & Threat Intelligence",
-            "⚡ IoT Security & Access Control Systems"
-        ]
-        self.current_projects = self.hack_the_matrix()
-        
-    def hack_the_matrix(self):
-        return {
-            "AI_Access_Control": "YOLOv2 + RTSP + Arduino Integration",
-            "Violence_Detection": "CNN + Active Learning (MDPI Published)",
-            "Bug_Bounty": "Open Bug Bounty Platform",
-            "Research": "Master's in Engineering Sciences"
-        }
-        
-    def get_skills(self):
-        return {
-            "exploit_frameworks": ["Metasploit", "Burp Suite", "Kali Linux"],
-            "ai_frameworks": ["TensorFlow", "PyTorch", "OpenCV"],
-            "languages": ["Python", "Java", "C", "Bash", "Matlab"],
-            "platforms": ["Linux", "Windows", "macOS"],
-            "certifications": ["Pentesting 101", "Social Engineering 101"]
-        }
-```
 
 ---
 
