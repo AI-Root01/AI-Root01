@@ -1,53 +1,239 @@
-<h1 align="center"><b>Hi, Frank Prime Prime</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">I am a technology enthusiast with over 5 years of experience in implementing innovative solutions. My expertise spans across cybersecurity, machine learning, and software development. I am passionate about developing and optimizing AI models, while continuously exploring and enhancing IT security.</p>
-
----
-
-### 🔑 Key Areas of Expertise
-
-- 🔐 **Cybersecurity**: Penetration testing, vulnerability analysis.
-- 🤖 **Artificial Intelligence**: Neural networks, machine learning with TensorFlow and PyTorch.
-- 📊 **Data Science**: Data analysis, visualization, and modeling using Python (Pandas, NumPy, Matplotlib).
-- 💻 **Software Development**: Proficient in Python, Java, Bash, C, and Matlab.
-- 🛠 **Operating Systems**: Linux, Windows and MacOS.
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
-  <a href="https://github.com/AI-Root01">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AI-Root01&show_icons=true&theme=tokyonight" alt="abhisheknaiidu"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Root01&layout=donut&langs_count=7&theme=tokyonight"/>
-  </a>
-
-
----
-
-### 🛠 Tech Stack:
+# 💀 Francisco Primero "Frank Prime Prime" 💀
+### `root@cybersec:~$ whoami`
+**Cybersecurity Specialist & AI Research Engineer**
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=bash,c,latex,linux,md,matlab,postgres,py,r,vscode)](https://skillicons.dev)
-  
+```ascii
+    ____  ____  ____  ____  ____  ____  ____  ____  ____  ____  ____  ____
+   ||F ||||r ||||a ||||n ||||k ||||  ||||P ||||r ||||i ||||m ||||e ||||  ||
+   ||__||||__||||__||||__||||__||||__||||__||||__||||__||||__||||__||||__||
+   |/__\||/__\||/__\||/__\||/__\||/__\||/__\||/__\||/__\||/__\||/__\||/__\|
+```
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Expert-red?style=for-the-badge&logo=kalilinux&logoColor=white)
+![AI Research](https://img.shields.io/badge/AI%20Research-Advanced-blue?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Pentesting-Professional-green?style=for-the-badge&logo=metasploit&logoColor=white)
+
 </div>
+
+---
+
+## 🚀 `system_status.log`
+
 <div align="center">
-<h3 align="left">Languages and Tools:</h3>
-</a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a>
-<a href="https://www.github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> 
-<a href="https://about.gitlab.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40"/> </a>
-<a href="https://docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/> </a>
-<a href="https://ubuntu.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="40" height="40"/> </a> 
-<a href="https://portswigger.net/" target="_blank"> <img src="https://www.kali.org/images/tool-logo-burp.svg" alt="Burp Suite" width="40" height="40"/> </a> 
-<a <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-<a href="https://metasploit.com/" target="_blank"> <img src="https://metasploit.com/includes/images/favicon.ico" alt="Metasploit" width="40" height="40"/> </a> 
-<a href="shodan.io" target="_blank"> <img src="https://www.shodan.io/static/img/favicon.png" alt="Shodan.io" width="40" height="40"/> </a> 
-<a href="https://maltego.com" target="_blank"> <img src="https://www.maltego.com/favicon.ico" alt="Maltego" width="40" height="40"/> </a> 
-<a href="https://www.wireshark.org/" target="_blank"> <img src="https://www.wireshark.org/assets/images/favicon.ico" alt="Wireshark" width="40" height="40"/> </a> 
-<a href="https://www.KALI.org/" target="_blank"> <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/kali-linux-icon.png" alt="Kali" width="40" height="40"/> </a> 
+
+![Matrix](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Penetration+Testing+%7C+AI+Research;Machine+Learning+%7C+Vulnerability+Analysis;OSINT+%7C+Exploit+Development;Neural+Networks+%7C+Computer+Vision)
 
 </div>
 
+```python
+class CyberSecurityExpert:
+    def __init__(self):
+        self.name = "Francisco Primero Primero"
+        self.alias = ["Frank Prime Prime", "AI-Root01", "unozerov"]
+        self.specializations = [
+            "🔐 Advanced Penetration Testing",
+            "🤖 AI & Machine Learning Research", 
+            "👁️ Computer Vision & Object Detection",
+            "🌐 OSINT & Threat Intelligence",
+            "⚡ IoT Security & Access Control Systems"
+        ]
+        self.current_projects = self.hack_the_matrix()
+        
+    def hack_the_matrix(self):
+        return {
+            "AI_Access_Control": "YOLOv2 + RTSP + Arduino Integration",
+            "Violence_Detection": "CNN + Active Learning (MDPI Published)",
+            "Bug_Bounty": "Open Bug Bounty Platform",
+            "Research": "Master's in Engineering Sciences"
+        }
+        
+    def get_skills(self):
+        return {
+            "exploit_frameworks": ["Metasploit", "Burp Suite", "Kali Linux"],
+            "ai_frameworks": ["TensorFlow", "PyTorch", "OpenCV"],
+            "languages": ["Python", "Java", "C", "Bash", "Matlab"],
+            "platforms": ["Linux", "Windows", "macOS"],
+            "certifications": ["Pentesting 101", "Social Engineering 101"]
+        }
+```
 
+---
+
+## 🔥 **BREACH DETECTED** - Current Operations
+
+<div align="center">
+
+### 🎯 **ACTIVE MISSIONS**
+
+</div>
+
+| 🚨 **Project** | 🔧 **Tech Stack** | 📊 **Status** | 🎖️ **Difficulty** |
+|:--------------:|:------------------:|:-------------:|:-----------------:|
+| **AI Access Control System** | `YOLOv2` `RTSP` `Arduino` `Oracle APEX` | 🟢 DEPLOYED | ⭐⭐⭐⭐⭐ |
+| **Violence Detection AI** | `CNN` `TensorFlow` `Active Learning` | 📄 PUBLISHED | ⭐⭐⭐⭐⭐ |
+| **Enterprise Pentesting** | `Kali Linux` `OSINT` `BlackArch` | 🔄 ONGOING | ⭐⭐⭐⭐ |
+| **Bug Bounty Hunting** | `Burp Suite` `Metasploit` `Custom Tools` | 🎯 HUNTING | ⭐⭐⭐⭐ |
+
+---
+
+## 🛠️ **ARSENAL** - Weapons of Choice
+
+<div align="center">
+
+### **💻 Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### **🔐 Cybersecurity Arsenal**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### **🤖 AI & ML Frameworks**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+### **🌐 Operating Systems**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+</div>
+
+---
+
+## 📊 **SYSTEM METRICS** - Performance Analysis
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AI-Root01&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=ff6b6b"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Root01&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AI-Root01&theme=radical&hide_border=true&background=0d1117)
+
+</div>
+
+---
+
+## 🏆 **ACHIEVEMENTS UNLOCKED**
+
+<div align="center">
+
+### 🎯 **Notable Exploits & Research**
+
+</div>
+
+```bash
+┌─[frank@cybersec]─[~/achievements]
+└──╼ $ cat notable_works.txt
+
+[✓] MDPI Publication: "Threshold Active Learning for Violence Detection"
+    ├── Deep Learning Neural Networks
+    ├── Computer Vision at Frame Level
+    └── Pre-trained Model Optimization
+
+[✓] AI-Powered Access Control System
+    ├── License Plate Recognition (YOLOv2)
+    ├── RFID & QR Integration
+    ├── Real-time Video Processing
+    └── Arduino Automation
+
+[✓] Enterprise Penetration Testing
+    ├── OSINT Reconnaissance
+    ├── Vulnerability Assessment
+    ├── Exploitation & Post-Exploitation
+    └── Detailed Security Reports
+
+[✓] Bug Bounty Contributions
+    ├── Open Bug Bounty Platform
+    ├── Critical Vulnerability Discoveries
+    └── Security Policy Improvements
+
+[✓] AQUA CHALLENGE 2024 - Talent LAd España
+```
+
+---
+
+## 🎓 **CREDENTIALS** - Academic & Professional
+
+<div align="center">
+
+| 🎯 **Degree/Certification** | 🏛️ **Institution** | 📅 **Year** | 🔢 **Certificate ID** |
+|:---------------------------:|:-------------------:|:-----------:|:---------------------:|
+| **M.Sc. Engineering Sciences** | Instituto Tecnológico de Toluca | 2024 (In Progress) | - |
+| **B.Sc. Computer Systems Engineering** | Tecnológico de Estudios Superiores de Jocotitlán | 2019 | - |
+| **Pentesting 101 (Level 1)** | Professional Certification | 2022 | ca0822440ag |
+| **Social Engineering 101** | Professional Certification | 2022 | ca58920935td |
+| **Pentesting 101 Web** | Professional Certification | 2022 | ca1116843bs |
+
+</div>
+
+---
+
+## 🌐 **NETWORK_CONNECTIONS**
+
+<div align="center">
+
+```bash
+┌─[frank@cybersec]─[~/contact]
+└──╼ $ ./establish_connection.sh
+```
+
+[![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:frank_primero@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-primero)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AI-Root01)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/unozerov)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-1988-0038)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github-pages&logoColor=white)](https://frank-prime-prime.github.io/)
+
+</div>
+
+---
+
+## 🔥 **CURRENT_MISSION_STATUS**
+
+<div align="center">
+
+```bash
+┌─[frank@cybersec]─[~/current_operations]
+└──╼ $ cat mission_status.log
+
+[🎯] Advancing AI research in computer vision applications
+[🔐] Conducting advanced penetration testing engagements  
+[🤖] Developing next-gen IoT security solutions
+[📊] Contributing to cybersecurity research community
+[🎓] Pursuing Master's degree in Engineering Sciences
+[💡] Exploring new frontiers in ML-powered security tools
+
+Status: ACTIVE & READY FOR NEW CHALLENGES
+```
+
+**⚡ "The best defense is a good offense... in cybersecurity and AI"**
+
+![Visitor Count](https://profile-counter.glitch.me/AI-Root01/count.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💀 **Remember: With great code comes great responsibility** 💀
+
+**`root@cybersec:~$ exit`**
+
+</div>
