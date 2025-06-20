@@ -13,47 +13,7 @@
 
 ---
 
-## 🏆 **ACHIEVEMENTS UNLOCKED** - Notable Exploits & Research
 
-<div align="center">
-
-```bash
-┌─[frank@cybersec]─[~/achievements]
-└──╼ $ cat notable_works.txt
-
-[✓] MDPI Publication: "Threshold Active Learning for Violence Detection"
-    ├── Deep Learning Neural Networks
-    ├── Computer Vision at Frame Level
-    └── Pre-trained Model Optimization
-
-[✓] AI-Powered Access Control System
-    ├── License Plate Recognition (YOLOv2)
-    ├── RFID & QR Integration
-    ├── Real-time Video Processing
-    └── Arduino Automation
-
-[✓] Full-Stack Web Applications
-    ├── React Frontend Development
-    ├── Flask Backend API Design
-    ├── Responsive UI/UX Implementation
-    └── Modern Development Stack (Vite)
-
-[✓] Enterprise Penetration Testing
-    ├── OSINT Reconnaissance
-    ├── Vulnerability Assessment
-    ├── Exploitation & Post-Exploitation
-    └── Detailed Security Reports
-
-[✓] Bug Bounty Contributions
-    ├── Open Bug Bounty Platform
-    ├── Critical Vulnerability Discoveries
-    └── Security Policy Improvements
-
-[✓] AQUA CHALLENGE 2024 - Talent LAd España
-[✓] Technical Documentation (LaTeX, Markdown)
-```
-
-</div>
 
 ## 🚀 `system_status.log`
 
@@ -63,37 +23,6 @@
 
 </div>
 
-```python
-class CyberSecurityExpert:
-    def __init__(self):
-        self.name = "Francisco Primero Primero"
-        self.alias = ["Frank Prime Prime", "AI-Root01", "unozerov"]
-        self.specializations = [
-            "🔐 Advanced Penetration Testing",
-            "🤖 AI & Machine Learning Research", 
-            "👁️ Computer Vision & Object Detection",
-            "🌐 OSINT & Threat Intelligence",
-            "⚡ IoT Security & Access Control Systems"
-        ]
-        self.current_projects = self.hack_the_matrix()
-        
-    def hack_the_matrix(self):
-        return {
-            "AI_Access_Control": "YOLOv2 + RTSP + Arduino Integration",
-            "Violence_Detection": "CNN + Active Learning (MDPI Published)",
-            "Bug_Bounty": "Open Bug Bounty Platform",
-            "Research": "Master's in Engineering Sciences"
-        }
-        
-    def get_skills(self):
-        return {
-            "exploit_frameworks": ["Metasploit", "Burp Suite", "Kali Linux"],
-            "ai_frameworks": ["TensorFlow", "PyTorch", "OpenCV"],
-            "languages": ["Python", "Java", "C", "Bash", "Matlab"],
-            "platforms": ["Linux", "Windows", "macOS"],
-            "certifications": ["Pentesting 101", "Social Engineering 101"]
-        }
-```
 
 ---
 
@@ -178,42 +107,6 @@ class CyberSecurityExpert:
 
 ---
 
-## 🏆 **ACHIEVEMENTS UNLOCKED**
-
-<div align="center">
-
-### 🎯 **Notable Exploits & Research**
-
-</div>
-
-```bash
-┌─[frank@cybersec]─[~/achievements]
-└──╼ $ cat notable_works.txt
-
-[✓] MDPI Publication: "Threshold Active Learning for Violence Detection"
-    ├── Deep Learning Neural Networks
-    ├── Computer Vision at Frame Level
-    └── Pre-trained Model Optimization
-
-[✓] AI-Powered Access Control System
-    ├── License Plate Recognition (YOLOv2)
-    ├── RFID & QR Integration
-    ├── Real-time Video Processing
-    └── Arduino Automation
-
-[✓] Enterprise Penetration Testing
-    ├── OSINT Reconnaissance
-    ├── Vulnerability Assessment
-    ├── Exploitation & Post-Exploitation
-    └── Detailed Security Reports
-
-[✓] Bug Bounty Contributions
-    ├── Open Bug Bounty Platform
-    ├── Critical Vulnerability Discoveries
-    └── Security Policy Improvements
-
-[✓] AQUA CHALLENGE 2024 - Talent LAd España
-```
 
 ---
 
@@ -271,11 +164,6 @@ class CyberSecurityExpert:
 Status: ACTIVE & READY FOR NEW CHALLENGES
 ```
 
-**⚡ "The best defense is a good offense... in cybersecurity and AI"**
-
-![Visitor Count](https://profile-counter.glitch.me/AI-Root01/count.svg)
-
-</div>
 
 ---
 
