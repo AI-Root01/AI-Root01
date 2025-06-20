@@ -1,4 +1,4 @@
-# 💀 Francisco Primero "Frank Prime Prime" 💀
+# 💀 "Frank Prime" 💀
 ### `root@cybersec:~$ whoami`
 **Cybersecurity Specialist & AI Research Engineer**
 
