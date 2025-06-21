@@ -1,4 +1,4 @@
-# 💀 "Hack the planet" 💀
+# Hack the planet!!!
 ### `root@cybersec:~$ whoami`
 **Cybersecurity Specialist • AI Research Engineer • Full-Stack Developer**
 
