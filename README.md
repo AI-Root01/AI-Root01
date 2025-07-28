@@ -127,7 +127,7 @@
 
 | 🎯 **Degree/Certification** | 🏛️ **Institution** | 📅 **Year** | 🔢 **Certificate ID** |
 |:---------------------------:|:-------------------:|:-----------:|:---------------------:|
-| **M.Sc. Engineering Sciences** | Instituto Tecnológico de Toluca | 2024  | - |
+| **M.S.I Engineering Sciences** | Instituto Tecnológico de Toluca | 2025  | - |
 | **B.Sc. Computer Systems Engineering** | Tecnológico de Estudios Superiores de Jocotitlán | 2019 | - |
 | **Pentesting 101 (Level 1)** | Professional Certification | 2022 | ca0822440ag |
 | **Social Engineering 101** | Professional Certification | 2022 | ca58920935td |
